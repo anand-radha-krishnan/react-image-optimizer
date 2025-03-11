@@ -18,7 +18,8 @@ A lightweight package that automatically optimizes images based on the user's de
 
 # Props
 
-| ****\_\_\_**** \_ ****\_**** |
+| Name        | Usage                                                  |
+| ----------- | ------------------------------------------------------ |
 | src | Image Url |
 | alt | Alternate text |
 | width | Number
@@ -26,3 +27,5 @@ A lightweight package that automatically optimizes images based on the user's de
 | srcSet | String of Images to be displayed for different view ports |
 | sizes | Size configurations |
 | fallbackSrc | Fallback Image Url |
+
+------------------------------------------------------
