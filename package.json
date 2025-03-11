@@ -1,6 +1,6 @@
 {
   "name": "react-image-optimizer",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A lightweight package that automatically optimizes images based on the user's device and viewport.",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
