@@ -10,6 +10,12 @@
       "import": "./dist/esm/index.js"
     }
   },
+  "keywords": [
+    "react",
+    "image",
+    "optimizer"
+  ],
+  "author": "Anand Radhakrishnan",
   "scripts": {
     "build": "npm run build:cjs && npm run build:esm",
     "build:cjs": "babel src --out-dir dist/cjs --ignore '**/*.test.js'",
